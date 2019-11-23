@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-NGPC/blob/master/retroarch/overlay/GameBezels/NGPC/Bust-A-Move%20Pocket%20(USA).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-NGPC/blob/master/retroarch/overlay/GameBezels/NGP/Bust-A-Move%20Pocket%20(USA).png?raw=true)
